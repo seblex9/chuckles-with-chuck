@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/chuckles-with-chuck/static/css/main.a6177d7b.css",
+    "main.js": "/chuckles-with-chuck/static/js/main.00f90bac.js",
+    "index.html": "/chuckles-with-chuck/index.html",
+    "main.a6177d7b.css.map": "/chuckles-with-chuck/static/css/main.a6177d7b.css.map",
+    "main.00f90bac.js.map": "/chuckles-with-chuck/static/js/main.00f90bac.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6177d7b.css",
+    "static/js/main.00f90bac.js"
+  ]
+}
