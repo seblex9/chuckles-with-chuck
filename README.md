@@ -21,7 +21,11 @@ This React app serves up Chuck Norris jokes from the Chuck Norris API.
 
 ## Deployment 🌐
 
-This app has been deployed using GitHub Pages. Check it live here: [Chuckles With Chuck on GitHub Pages](https://seblex9.github.io/chuckles-with-chuck/). Feel free to play with it and maybe have a few laughs.
+This app has been deployed using GitHub Pages. Check it live here:
+
+[Chuckles With Chuck on GitHub Pages](https://seblex9.github.io/chuckles-with-chuck/).
+
+Feel free to play with it and maybe have a few laughs.
 
 ## Final Thoughts 📝
 
