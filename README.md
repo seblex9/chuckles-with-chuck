@@ -1,3 +1,5 @@
+![Preview]()
+
 # Chuckles With Chuck - A React App 🤣
 
 This React app serves up Chuck Norris jokes from the Chuck Norris API.
