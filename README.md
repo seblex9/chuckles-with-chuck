@@ -25,6 +25,6 @@ This app has been deployed using GitHub Pages. Feel free to play with it and may
 
 ## Final Thoughts 📝
 
-This project was a journey into React, API interaction, and dynamic rendering. It showcases the use of modern JavaScript features and React hooks, combined with sleek styling for a perfect blend of functionality and design.
+This project was an exercise React, API interaction, and dynamic rendering. It showcases the use of modern JavaScript features and React hooks, combined with CSS styling for functionality and design.
 
 If you have any suggestions or feedback, please raise an issue or drop a PR. Contributions are always welcome!
