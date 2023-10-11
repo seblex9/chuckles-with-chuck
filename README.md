@@ -1,5 +1,4 @@
-![Preview](![Alt Text](https://github.com/seblex9/chuckles-with-chuck/blob/master/public/app.gif)
-)
+<img src="https://github.com/seblex9/chuckles-with-chuck/blob/master/public/app.gif" height="300" alt="Demo GIF" />
 
 # Chuckles With Chuck - A React App 🤣
 
