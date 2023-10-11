@@ -1,4 +1,5 @@
-![Preview]()
+![Preview](![Alt Text](https://github.com/seblex9/chuckles-with-chuck/raw/master/public/your-gif-name.gif)
+)
 
 # Chuckles With Chuck - A React App 🤣
 
